@@ -111,7 +111,8 @@ Each Transformer block contains:
 Architecture diagram:
 
 ```
-![Architecture](GPT_Architecture.png)
+
+<img width="651" height="816" alt="image" src="https://github.com/user-attachments/assets/cc9ad601-63e3-4463-b5dc-2f23fe22b37e" />
 
 
 ```
